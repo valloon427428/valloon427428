@@ -8,4 +8,4 @@ Here are my contact details:
 
 <br>
 
-[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjs427&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
+[<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjs427&layout=compact&theme=material-palenight" alt="My top languages" />](#)
